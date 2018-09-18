@@ -1,0 +1,6 @@
+C:\Users\Alejandro\source\repos\Semana1\Semana1\bin\Debug\Semana1.dll
+C:\Users\Alejandro\source\repos\Semana1\Semana1\bin\Debug\Semana1.pdb
+C:\Users\Alejandro\source\repos\Semana1\Semana1\obj\Debug\Semana1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Semana1\Semana1\obj\Debug\Semana1.dll
+C:\Users\Alejandro\source\repos\Semana1\Semana1\obj\Debug\Semana1.pdb
+C:\Users\Alejandro\source\repos\Semana1\Semana1\obj\Debug\Semana1.csprojAssemblyReference.cache

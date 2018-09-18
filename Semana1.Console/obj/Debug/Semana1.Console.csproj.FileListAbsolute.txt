@@ -1,0 +1,10 @@
+C:\Users\Alejandro\source\repos\Semana1\Semana1.Console\bin\Debug\Semana1.Console.exe.config
+C:\Users\Alejandro\source\repos\Semana1\Semana1.Console\bin\Debug\Semana1.Console.exe
+C:\Users\Alejandro\source\repos\Semana1\Semana1.Console\bin\Debug\Semana1.Console.pdb
+C:\Users\Alejandro\source\repos\Semana1\Semana1.Console\bin\Debug\Semana1.dll
+C:\Users\Alejandro\source\repos\Semana1\Semana1.Console\bin\Debug\Semana1.pdb
+C:\Users\Alejandro\source\repos\Semana1\Semana1.Console\obj\Debug\Semana1.Console.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Semana1\Semana1.Console\obj\Debug\Semana1.Console.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Semana1\Semana1.Console\obj\Debug\Semana1.Console.csproj.CopyComplete
+C:\Users\Alejandro\source\repos\Semana1\Semana1.Console\obj\Debug\Semana1.Console.exe
+C:\Users\Alejandro\source\repos\Semana1\Semana1.Console\obj\Debug\Semana1.Console.pdb
