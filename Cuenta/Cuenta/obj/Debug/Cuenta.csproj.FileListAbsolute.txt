@@ -1,0 +1,7 @@
+C:\Users\Alejandro\source\repos\Cuenta\Cuenta\bin\Debug\Cuenta.exe.config
+C:\Users\Alejandro\source\repos\Cuenta\Cuenta\bin\Debug\Cuenta.exe
+C:\Users\Alejandro\source\repos\Cuenta\Cuenta\bin\Debug\Cuenta.pdb
+C:\Users\Alejandro\source\repos\Cuenta\Cuenta\obj\Debug\Cuenta.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Cuenta\Cuenta\obj\Debug\Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Cuenta\Cuenta\obj\Debug\Cuenta.exe
+C:\Users\Alejandro\source\repos\Cuenta\Cuenta\obj\Debug\Cuenta.pdb
