@@ -8,11 +8,11 @@ namespace Taller1Publicaciones
 {
     public class Comentario 
     {
-        public string texto { get; set; }
-        public DateTime fecha { get; set; }
-        public int idComentario { get; set; }
-        public int idPublicacion { get; set; }
-        public string nombreUsuario { get; set; }
+        public string texto { set; get; }
+        public DateTime fecha { set; get; }
+        public int idComentario { set; get; }
+        public int idPublicacion { set; get; }
+        public string nombreUsuario { set; get; }
 
 
      
