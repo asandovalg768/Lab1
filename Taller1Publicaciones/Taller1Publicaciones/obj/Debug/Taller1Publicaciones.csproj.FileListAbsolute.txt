@@ -1,0 +1,14 @@
+C:\Users\Alejandro\source\repos\Taller1Publicaciones\Taller1Publicaciones\obj\Debug\Taller1Publicaciones.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Taller1Publicaciones\Taller1Publicaciones\obj\Debug\Taller1Publicaciones.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Taller1Publicaciones\Taller1Publicaciones\bin\Debug\Taller1Publicaciones.exe.config
+C:\Users\Alejandro\source\repos\Taller1Publicaciones\Taller1Publicaciones\bin\Debug\Taller1Publicaciones.exe
+C:\Users\Alejandro\source\repos\Taller1Publicaciones\Taller1Publicaciones\bin\Debug\Taller1Publicaciones.pdb
+C:\Users\Alejandro\source\repos\Taller1Publicaciones\Taller1Publicaciones\obj\Debug\Taller1Publicaciones.exe
+C:\Users\Alejandro\source\repos\Taller1Publicaciones\Taller1Publicaciones\obj\Debug\Taller1Publicaciones.pdb
+C:\Users\Alejandro\Desktop\Taller1Publicaciones\Taller1Publicaciones\obj\Debug\Taller1Publicaciones.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Taller1Publicaciones\Taller1Publicaciones\obj\Debug\Taller1Publicaciones.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Taller1Publicaciones\Taller1Publicaciones\obj\Debug\Taller1Publicaciones.exe
+C:\Users\Alejandro\Desktop\Taller1Publicaciones\Taller1Publicaciones\obj\Debug\Taller1Publicaciones.pdb
+C:\Users\Alejandro\Desktop\Taller1Publicaciones\Taller1Publicaciones\bin\Debug\Taller1Publicaciones.exe.config
+C:\Users\Alejandro\Desktop\Taller1Publicaciones\Taller1Publicaciones\bin\Debug\Taller1Publicaciones.exe
+C:\Users\Alejandro\Desktop\Taller1Publicaciones\Taller1Publicaciones\bin\Debug\Taller1Publicaciones.pdb
